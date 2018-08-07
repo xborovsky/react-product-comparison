@@ -2,7 +2,7 @@
   "products": [{
       "id": "1",
       "name": "Cherry",
-      "image": "images/Cherry.png",
+      "image": "images/cherry.jpg",
       "price": "$1.99",
       "colors": ["red", "green", "blue"],
       "condition": "Fresh",
@@ -11,7 +11,7 @@
     {
       "id": "2",
       "name": "Orange",
-      "image": "images/Orange.png",
+      "image": "images/orange.jpg",
       "price": "$2.99",
       "colors": ["green", "blue"],
       "condition": "Frozen",
@@ -20,7 +20,7 @@
     {
       "id": "3",
       "name": "Nuts",
-      "image": "images/Nuts.png",
+      "image": "images/nuts.jpg",
       "price": "$1.00",
       "colors": ["red"],
       "condition": "Frozen",
@@ -29,7 +29,7 @@
     {
       "id": "4",
       "name": "Strawberry",
-      "image": "images/Strawberry.png",
+      "image": "images/strawberry.jpg",
       "price": "$1.49",
       "colors": ["blue"],
       "condition": "Fresh",
